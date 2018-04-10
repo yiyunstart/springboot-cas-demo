@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.qitf.config.CustomerAuthWebflowConfiguration,\
+com.qitf.config.CustomAuthenticationEventExecutionPlanConfiguration
