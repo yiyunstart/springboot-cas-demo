@@ -7,7 +7,8 @@
 https://github.com/apereo
 ## cas 官方各个配置项说明
 https://apereo.github.io/cas/5.2.x/installation/Configuration-Properties.html
-
+## cas重写模板
+https://github.com/apereo/cas-overlay-template
 
 
 #### cas-client-sucetiry 
